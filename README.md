@@ -1,2 +1,2 @@
 # oscilloscope
-oscilloscope
+how oscilloscope works?
